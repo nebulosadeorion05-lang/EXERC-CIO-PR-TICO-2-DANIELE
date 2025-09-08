@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> Questão 3 </title>
+</head>
+<body>
+    
+    <h2 style = "color: #cd5c5c"> Formulário de Contato </h2>
+    <form action = "/submit_form" method = "post">
+        <label for = "name"> Nome: </label> <br>
+        <input type = "text" id = "name" name = "name" placeholder = "Digite seu nome..." required> <br><br>
 
+        <label for = "email"> Email: </label> <br>
+        <input type = "email" id = "email" name = "email" placeholder = "Digite seu email..." required> <br><br>
+
+        <label for = "mensagem"> Mensagem: </label> <br>
+        <textarea id = "mensagem" name = "mensagem" placeholder = "Digite sua mensagem aqui..." required> </textarea> <br><br>
+
+        <input style = "background-color: chocolate" type = "submit" value = "Enviar">
+    </form>
+
+</body>
+</html>
