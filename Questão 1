@@ -8,7 +8,7 @@
     
     <h1 style = "color: purple; text-align: justify; font-family: Arial, Helvetica, sans-serif;"> Daniele Couto </h1>
     <h2 style = "color: blueviolet; text-align: justify;"> Desenvolvedora Web </h2>
-    <p style = "color: blueviolet; border: 2px solid grey; padding: 10px; text-align: justify;"> Olá! Meu nome é Daniele e sou uma desenvolvedora web apaixonada pela profissão. Meu objetivo é proporcionar experiências únicas aos usuários através da criação de páginas bonitas e funcionais. Tenho experiência em HTML, CSS, JavaScript e outras tecnologias modernas. </p>
+    <p style = "color: black; border: 2px solid grey; padding: 10px; text-align: justify;"> Olá! Meu nome é Daniele e sou uma desenvolvedora web apaixonada pela profissão. Meu objetivo é proporcionar experiências únicas aos usuários através da criação de páginas bonitas e funcionais. Tenho experiência em HTML, CSS, JavaScript e outras tecnologias modernas. </p>
     <p style = "color: purple"> Minha Matrícula: 202503714487 </p>
 
 </body>
